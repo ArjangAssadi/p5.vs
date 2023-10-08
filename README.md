@@ -1,6 +1,6 @@
 # p5.vs 
 
-This is a port of p5.vscode for visual studio, not everyone has visual studio code or wants it. The rest of the blurb should be same as p5.vscode so not copy the intrsuction from there. Refer to p5.vscode for original documentation e.g. below.
+This is a port of p5.vscode for visual studio, not everyone has visual studio code or wants it. The rest of the blurb should be same as p5.vscode so not to copy the intrsuction from there. Refer to p5.vscode for original documentation e.g. below.
 
 helps you create p5.js projects in Visual Studio Code. It also includes autocompletion, a simple tool to browse and install third-party p5 libraries, and the `Live Server` extension. 
 
